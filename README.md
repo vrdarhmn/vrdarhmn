@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/vrdarhmn">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:7C3AED,55:6366F1,100:06B6D4&text=AI%20%7C%20Backend%20%7C%20Python%20Developer&fontSize=28&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%" alt="AI Backend Python Developer">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=AI+%7C+Backend+%7C+Python+Developer;Building+Practical+AI+Applications;Exploring+Generative+AI+%26+NLP" alt="Typing animation">
 
 ### Computer Science Student · AI & Python Developer
 
