@@ -7,11 +7,11 @@
 <br><br>
 
 <a href="https://github.com/VrdaRehman01">
-  <img src="https://komarev.com/ghpvc/?username=VrdaRehman01&label=Profile%20Views&style=flat-square&color=6D3CC8" />
+  <img src="https://komarev.com/ghpvc/?username=vrdarhmn&label=Profile%20Views&style=flat-square&color=6D3CC8" />
 </a>
 
 <a href="https://github.com/VrdaRehman01?tab=followers">
-  <img src="https://img.shields.io/github/followers/VrdaRehman01?label=Followers&style=flat-square&color=6D3CC8" />
+  <img src="https://img.shields.io/github/followers/vrdarhmn?label=Followers&style=flat-square&color=6D3CC8" />
 </a>
 
 </div>
