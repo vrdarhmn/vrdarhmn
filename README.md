@@ -21,9 +21,7 @@
 <img src="https://img.shields.io/badge/NLP%20%26%20RAG-6366F1?style=flat-square" alt="NLP">
 <img src="https://img.shields.io/badge/Backend%20Engineering-0EA5E9?style=flat-square" alt="Backend">
 <img src="https://img.shields.io/badge/Computer%20Vision-06B6D4?style=flat-square" alt="Computer Vision">
-
-<br><br>
-
+<br>
 I enjoy turning **AI concepts into working software** — from intelligent APIs and RAG systems to forecasting, automation, and computer-vision applications.
 
 </div>
