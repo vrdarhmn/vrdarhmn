@@ -32,79 +32,74 @@ I enjoy turning **AI concepts into working software** — from intelligent APIs 
 
 ---
 
-<h2 align="center">Tech Stack</h2>
-
-<div align="center">
+## Tech Stack
 
 <table>
 <tr>
-<td width="150"><b>Languages</b></td>
+<td width="24%"><strong>Languages</strong></td>
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logoColor=white" alt="Java">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td><b>AI / Machine Learning</b></td>
+<td><strong>AI & ML</strong></td>
 <td>
-<img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logoColor=white" alt="OpenAI">
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain">
-<img src="https://img.shields.io/badge/Transformers-F6C343?style=flat-square&logoColor=111111" alt="Transformers">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logoColor=white" alt="Gemini">
-<img src="https://img.shields.io/badge/Pinecone-111111?style=flat-square&logoColor=white" alt="Pinecone">
-<br>
-<code>NLP</code> <code>RAG</code> <code>Prompt Engineering</code>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+<br/>
+<sub>NLP · RAG · Prompt Engineering</sub>
 </td>
 </tr>
 
 <tr>
-<td><b>Backend & APIs</b></td>
+<td><strong>Backend</strong></td>
 <td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Flask-222222?style=flat-square&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logoColor=white" alt="Spring Boot">
-<br>
-<code>REST APIs</code> <code>Microservices</code> <code>Backend Development</code>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<br/>
+<sub>REST APIs · Microservices · Backend Development</sub>
 </td>
 </tr>
 
 <tr>
-<td><b>Data & Cloud</b></td>
+<td><strong>Data & Cloud</strong></td>
 <td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logoColor=white" alt="MySQL">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logoColor=white" alt="Redis">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td><b>Frontend & Tools</b></td>
+<td><strong>Development</strong></td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logoColor=white" alt="Jupyter">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </td>
 </tr>
 
 <tr>
-<td><b>Computer Vision & Speech</b></td>
+<td><strong>Vision & Speech</strong></td>
 <td>
-<img src="https://img.shields.io/badge/MediaPipe-111111?style=flat-square&logoColor=white" alt="MediaPipe">
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logoColor=white" alt="OpenCV">
-<code>Speech Recognition</code>
-<code>Text-to-Speech</code>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<sub>Speech Recognition · Text-to-Speech</sub>
 </td>
 </tr>
 </table>
-
-</div>
 ---
 
 <h2 align="center">What I'm Interested In</h2>
