@@ -193,7 +193,7 @@ Software Development → Clean, maintainable & reusable code
 
 <div align="center">
 
-<a href="https://github.com/VrdaRehman01">
+<a href="https://github.com/vrdarhmn">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
