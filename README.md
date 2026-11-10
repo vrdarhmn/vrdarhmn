@@ -8,13 +8,9 @@
 <br>
 <a href="https://github.com/vrdarhmn"><img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/warda-rehman22/"><img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
 </div>
-
 ---
-
 <div align="center">
-
 ### What I Bring
 
 <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-7C3AED?style=flat-square" alt="AI">
