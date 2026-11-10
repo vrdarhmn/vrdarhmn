@@ -4,7 +4,7 @@
 
 **Computer Science Student · AI & Python Developer**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+%26+Generative+AI;NLP+%26+RAG+Systems;Python+%26+Backend+Development;Building+practical+software+solutions" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2600&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Generative+AI;NLP+%26+RAG+Systems;Python+%26+Backend+Development;Building+practical+software+solutions" alt="Typing animation">
 
 <br>
 
@@ -17,7 +17,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%">
+---
 
 ## About Me
 
@@ -29,128 +29,200 @@ My current work spans **Python, Java, TypeScript, AI/ML, APIs, databases, and cl
 
 ---
 
-## Tech Stack
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
 
 ### Languages
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python&theme=light" height="42" title="Python">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=java&theme=light" height="42" title="Java">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=cpp&theme=light" height="42" title="C++">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript&theme=light" height="42" title="TypeScript">
-
-<br>
-<sub>Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TypeScript</sub>
-
-</div>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python&theme=light" width="44"><br>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java&theme=light" width="44"><br>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=cpp&theme=light" width="44"><br>
+<sub><b>C++</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript&theme=light" width="44"><br>
+<sub><b>TypeScript</b></sub>
+</td>
+</tr>
+</table>
 
 ### AI / Machine Learning
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=openai&theme=light" width="44"><br>
+<sub><b>OpenAI</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=langchain&theme=light" width="44"><br>
+<sub><b>LangChain</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=huggingface&theme=light" width="44"><br>
+<sub><b>Transformers</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=googleai&theme=light" width="44"><br>
+<sub><b>Gemini</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=pinecone&theme=light" width="44"><br>
+<sub><b>Pinecone</b></sub>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=openai&theme=light" height="42" title="OpenAI">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=langchain&theme=light" height="42" title="LangChain">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=huggingface&theme=light" height="42" title="Transformers">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=googleai&theme=light" height="42" title="Gemini">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=pinecone&theme=light" height="42" title="Pinecone">
-
-<br>
-<sub>OpenAI&nbsp;&nbsp;&nbsp;&nbsp; LangChain&nbsp;&nbsp;&nbsp;&nbsp; Transformers&nbsp;&nbsp;&nbsp;&nbsp; Gemini&nbsp;&nbsp;&nbsp;&nbsp; Pinecone</sub>
-
-<br><br>
-
-<code>NLP</code> &nbsp; <code>RAG</code> &nbsp; <code>Prompt Engineering</code>
-
-</div>
+<code>NLP</code>&nbsp;&nbsp; <code>RAG</code>&nbsp;&nbsp; <code>Prompt Engineering</code>
 
 ### Backend & APIs
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="44"><br>
+<sub><b>FastAPI</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=flask&theme=light" width="44"><br>
+<sub><b>Flask</b></sub>
+</td>
+<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=spring&theme=light" width="44"><br>
+<sub><b>Spring Boot</b></sub>
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=light" height="42" title="FastAPI">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flask&theme=light" height="42" title="Flask">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring&theme=light" height="42" title="Spring Boot">
-
-<br>
-<sub>FastAPI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Flask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Spring Boot</sub>
-
-<br><br>
-
-<code>REST APIs</code> &nbsp; <code>Microservices</code> &nbsp; <code>Backend Development</code>
-
-</div>
+<code>REST APIs</code>&nbsp;&nbsp; <code>Microservices</code>&nbsp;&nbsp; <code>Backend Development</code>
 
 ### Databases & Infrastructure
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgresql&theme=light" height="42" title="PostgreSQL">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql&theme=light" height="42" title="MySQL">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis&theme=light" height="42" title="Redis">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=light" height="42" title="Docker">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws&theme=light" height="42" title="AWS">
-
-<br>
-<sub>PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp; MySQL&nbsp;&nbsp;&nbsp;&nbsp; Redis&nbsp;&nbsp;&nbsp;&nbsp; Docker&nbsp;&nbsp;&nbsp;&nbsp; AWS</sub>
-
-</div>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgresql&theme=light" width="44"><br>
+<sub><b>PostgreSQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql&theme=light" width="44"><br>
+<sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=redis&theme=light" width="44"><br>
+<sub><b>Redis</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker&theme=light" width="44"><br>
+<sub><b>Docker</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws&theme=light" width="44"><br>
+<sub><b>AWS</b></sub>
+</td>
+</tr>
+</table>
 
 ### Frontend & Development Tools
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react&theme=light" height="42" title="React">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=light" height="42" title="Git">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github&theme=light" height="42" title="GitHub">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode&theme=light" height="42" title="VS Code">
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=jupyter&theme=light" height="42" title="Jupyter">
-
-<br>
-<sub>React&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Git&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; VS Code&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jupyter</sub>
-
-</div>
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react&theme=light" width="44"><br>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git&theme=light" width="44"><br>
+<sub><b>Git</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github&theme=light" width="44"><br>
+<sub><b>GitHub</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode&theme=light" width="44"><br>
+<sub><b>VS Code</b></sub>
+</td>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jupyter&theme=light" width="44"><br>
+<sub><b>Jupyter</b></sub>
+</td>
+</tr>
+</table>
 
 ### Computer Vision & Speech
 
-<div align="center">
-
-<code>MediaPipe</code> &nbsp; <code>OpenCV</code> &nbsp; <code>Speech Recognition</code> &nbsp; <code>Text-to-Speech</code>
+<table>
+<tr>
+<td align="center" width="170">
+<b>MediaPipe</b>
+</td>
+<td align="center" width="170">
+<b>OpenCV</b>
+</td>
+<td align="center" width="170">
+<b>Speech Recognition</b>
+</td>
+<td align="center" width="170">
+<b>Text-to-Speech</b>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## Areas of Interest
+<h2 align="center">Areas of Interest</h2>
 
-| AI & Generative AI | NLP & RAG |
-|:---|:---|
-| LLM applications, Generative AI, intelligent automation, and practical AI workflows. | Semantic search, embeddings, vector databases, document retrieval, and RAG systems. |
+<table>
+<tr>
+<td width="50%">
 
-| Backend Engineering | Computer Vision |
-|:---|:---|
-| Python APIs, Java services, microservices, databases, and application architecture. | Real-time computer vision and interactive applications using MediaPipe and OpenCV. |
+### AI & Generative AI
+
+LLM applications, Generative AI, intelligent automation, and practical AI workflows.
+
+</td>
+<td width="50%">
+
+### NLP & RAG
+
+Semantic search, embeddings, vector databases, document retrieval, and RAG systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### Backend Engineering
+
+Python APIs, Java services, microservices, databases, and application architecture.
+
+</td>
+<td width="50%">
+
+### Computer Vision
+
+Real-time computer vision and interactive applications using MediaPipe and OpenCV.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+<h2 align="center">Currently Learning</h2>
 
 <div align="center">
 
@@ -160,7 +232,7 @@ My current work spans **Python, Java, TypeScript, AI/ML, APIs, databases, and cl
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
 
@@ -176,13 +248,17 @@ My current work spans **Python, Java, TypeScript, AI/ML, APIs, databases, and cl
 
 ---
 
-## Education
+<h2 align="center">Education</h2>
+
+<div align="center">
 
 **Bachelor of Science in Computer Science**  
 Iqra University · 2022 — 2026
 
 **Cloud Applied Generative AI**  
 PIAIC · 2025
+
+</div>
 
 ---
 
