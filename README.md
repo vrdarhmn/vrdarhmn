@@ -2,18 +2,18 @@
 
 # Warda Rehman
 
-### Computer Science Student · AI & Python Developer
+**Computer Science Student · AI & Python Developer**
 
 <a href="https://github.com/vrdarhmn">
-  <img src="https://img.shields.io/badge/GitHub-vrdarhmn-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-vrdarhmn-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/warda-rehman22/">
-  <img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Generative+AI+%26+NLP;Python+%26+Backend+Development;Building+practical+software+solutions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Generative+AI+%26+NLP;Python+%26+Backend+Development;Building+practical+software+solutions" alt="Typing animation">
 
 </div>
 
@@ -23,107 +23,100 @@
 
 I'm a Computer Science student and developer interested in **Artificial Intelligence, Generative AI, NLP, and backend development**.
 
-I enjoy building practical software that connects AI with real applications — from forecasting and semantic search to automation, computer vision, and data-driven systems.
+I enjoy building practical software that connects AI with real applications — including forecasting, semantic search, automation, computer vision, and data-driven systems.
 
 My current work spans **Python, Java, TypeScript, AI/ML, APIs, databases, and cloud technologies**.
 
 ---
 
-## Technical Skills
-
-<div align="center">
+## Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,typescript" />
-
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+</p>
 
 ### AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python" />
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white">
+</p>
 
-<br>
-
-`OpenAI API` · `LangChain` · `Transformers` · `Gemini` · `Pinecone` · `NLP` · `RAG` · `Prompt Engineering`
-
-<br><br>
+`NLP` · `RAG` · `Prompt Engineering`
 
 ### Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,spring" />
-
-<br>
-
-`REST APIs` · `Microservices` · `Backend Development`
-
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20APIs-555555?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Microservices-555555?style=flat-square&logo=docker&logoColor=white">
+</p>
 
 ### Databases & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,docker,aws" />
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+</p>
 
-<br><br>
+### Frontend & Tools
 
-### Frontend & Development Tools
-
-<img src="https://skillicons.dev/icons?i=react,git,github,vscode,jupyter" />
-
-<br><br>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
 
 ### Computer Vision & Speech
 
 `MediaPipe` · `OpenCV` · `Speech Recognition` · `Text-to-Speech`
 
-</div>
-
 ---
 
-## What I'm Interested In
+## Areas of Interest
 
-| Artificial Intelligence | NLP & RAG |
+| AI & Generative AI | NLP & RAG |
 |:---|:---|
-| LLM applications, Generative AI, AI workflows, and intelligent automation. | Semantic search, embeddings, vector databases, document retrieval, and RAG systems. |
+| LLM applications, Generative AI, intelligent automation, and practical AI workflows. | Semantic search, embeddings, vector databases, document retrieval, and RAG systems. |
 
 | Backend Engineering | Computer Vision |
 |:---|:---|
-| Python APIs, Java services, microservices, databases, and scalable application architecture. | Real-time computer vision and interactive applications using MediaPipe and OpenCV. |
+| Python APIs, Java services, microservices, databases, and application architecture. | Real-time computer vision and interactive applications using MediaPipe and OpenCV. |
 
 ---
 
 ## Currently Learning
 
-```text
-Generative AI       → LLM applications, RAG & AI workflows
-Backend Engineering → APIs, microservices & application architecture
-Cloud Technologies  → Cloud-based application development
-Computer Vision     → MediaPipe & OpenCV
-Software Engineering→ Clean, maintainable & reusable systems
-```
+`Generative AI` · `LLM Applications` · `RAG` · `Backend Engineering` · `Cloud Technologies` · `Computer Vision`
 
 ---
 
-## GitHub Statistics
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=8B5CF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&icon_color=8B5CF6">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdarhmn&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdarhmn&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9">
 
 <br><br>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vrdarhmn&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrdarhmn&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="95%" />
+<img width="70%" src="https://streak-stats.demolab.com?user=vrdarhmn&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF">
 
 </div>
 
@@ -144,10 +137,10 @@ PIAIC · 2025
 <div align="center">
 
 <a href="https://github.com/vrdarhmn">
-  <img src="https://img.shields.io/badge/GitHub-vrdarhmn-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-vrdarhmn-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/warda-rehman22/">
-  <img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
