@@ -5,9 +5,7 @@
 ### Computer Science Student · AI & Python Developer
 
 **I build practical software where AI, backend systems, and real-world applications meet.**
-
 <br>
-
 <a href="https://github.com/vrdarhmn"><img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/warda-rehman22/"><img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
