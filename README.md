@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/vrdarhmn">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7C3AED,55:6366F1,100:06B6D4&text=Warda%20Rehman&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Python%20Developer&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Warda Rehman">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=165&color=0:7C3AED,55:6366F1,100:06B6D4&text=AI%20%7C%20Backend%20%7C%20Python%20Developer&fontSize=28&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn" width="100%" alt="AI Backend Python Developer">
 </a>
 
 ### Computer Science Student · AI & Python Developer
