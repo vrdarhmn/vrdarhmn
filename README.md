@@ -40,7 +40,7 @@ I enjoy turning **AI concepts into working software** — from intelligent APIs 
 
 <table>
 <tr>
-<td><b>Languages</b></td>
+<td width="150"><b>Languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Java-E76F00?style=flat-square&logoColor=white" alt="Java">
@@ -50,25 +50,25 @@ I enjoy turning **AI concepts into working software** — from intelligent APIs 
 </tr>
 
 <tr>
-<td><b>AI / ML</b></td>
+<td><b>AI / Machine Learning</b></td>
 <td>
 <img src="https://img.shields.io/badge/OpenAI-111111?style=flat-square&logoColor=white" alt="OpenAI">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" alt="LangChain">
 <img src="https://img.shields.io/badge/Transformers-F6C343?style=flat-square&logoColor=111111" alt="Transformers">
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logoColor=white" alt="Gemini">
 <img src="https://img.shields.io/badge/Pinecone-111111?style=flat-square&logoColor=white" alt="Pinecone">
-<span>&nbsp;&nbsp;</span>
+<br>
 <code>NLP</code> <code>RAG</code> <code>Prompt Engineering</code>
 </td>
 </tr>
 
 <tr>
-<td><b>Backend</b></td>
+<td><b>Backend & APIs</b></td>
 <td>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logoColor=white" alt="FastAPI">
 <img src="https://img.shields.io/badge/Flask-222222?style=flat-square&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logoColor=white" alt="Spring Boot">
-<span>&nbsp;&nbsp;</span>
+<br>
 <code>REST APIs</code> <code>Microservices</code> <code>Backend Development</code>
 </td>
 </tr>
@@ -85,7 +85,7 @@ I enjoy turning **AI concepts into working software** — from intelligent APIs 
 </tr>
 
 <tr>
-<td><b>Development</b></td>
+<td><b>Frontend & Tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logoColor=white" alt="Git">
@@ -96,18 +96,17 @@ I enjoy turning **AI concepts into working software** — from intelligent APIs 
 </tr>
 
 <tr>
-<td><b>Vision & Speech</b></td>
+<td><b>Computer Vision & Speech</b></td>
 <td>
 <img src="https://img.shields.io/badge/MediaPipe-111111?style=flat-square&logoColor=white" alt="MediaPipe">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/Speech%20Recognition-6B7280?style=flat-square&logoColor=white" alt="Speech Recognition">
-<img src="https://img.shields.io/badge/Text--to--Speech-374151?style=flat-square&logoColor=white" alt="Text-to-Speech">
+<code>Speech Recognition</code>
+<code>Text-to-Speech</code>
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 <h2 align="center">What I'm Interested In</h2>
