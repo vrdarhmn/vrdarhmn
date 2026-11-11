@@ -144,19 +144,20 @@
 <div align="center">
 
 <p>
-  <a href="#ai--generative-ai">AI & Generative AI</a>
+  <a href="#ai--generative-ai">AI &amp; Generative AI</a>
   &nbsp; • &nbsp;
-  <a href="#nlp--rag">NLP & RAG</a>
+  <a href="#nlp--rag">NLP &amp; RAG</a>
   &nbsp; • &nbsp;
-  <a href="#ai-&-automation">AI & Generative AI</a>
+  <a href="#ai--automation">AI &amp; Automation</a>
   &nbsp; • &nbsp;
-  <a href="#attention-mechanisms">NLP & RAG</a>
+  <a href="#attention-mechanisms">Attention Mechanisms</a>
   &nbsp; • &nbsp;
-  <a href="#full-stack-engineering">Backend Engineering</a>
+  <a href="#full-stack-engineering">Full Stack Engineering</a>
   &nbsp; • &nbsp;
   <a href="#computer-vision">Computer Vision</a>
 </p>
 
+</div>
 <p>
   LLM applications • Intelligent automation • Semantic search •
   RAG systems • Python APIs • Microservices • Databases • Computer Vision
