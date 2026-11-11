@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <b>Computer Scientist · AI & Python Developer</b>
+  <b>Computer Scientist · AI Engineer</b>
 </p>
 
 <p>
