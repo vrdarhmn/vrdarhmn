@@ -32,8 +32,11 @@
 <p>
   <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-7C3AED?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/NLP%20%26%20RAG-8B5CF6?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-06B6D4?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation%20AI-7C3AED?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Full-Stack%20Engineer-06B6D4?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Computer%20Vision-14B8A6?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Attention%20Mechanisms-06B6D4?style=flat-square&logoColor=white">
+
 </p>
 
 <p>
