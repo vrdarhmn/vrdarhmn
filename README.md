@@ -231,7 +231,7 @@
 </p>
 
 <p>
-  <i>Learning, experimenting, and building alog the way.</i>
+  <i>Learning, experimenting, and building along the way</i>
 </p>
 
 </div>
