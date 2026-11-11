@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  LLM applications • Generative AI • Intelligent automation • Semantic search •
+  LLM applications • Intelligent automation • Semantic search •
   RAG systems • Python APIs • Microservices • Databases • Computer Vision
 </p>
 
