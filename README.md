@@ -143,7 +143,7 @@
 
 <div align="center">
 
-<p>
+<p align="center">
   <a href="#ai--generative-ai">AI &amp; Generative AI</a>
   &nbsp; • &nbsp;
   <a href="#nlp--rag">NLP &amp; RAG</a>
@@ -157,13 +157,12 @@
   <a href="#computer-vision">Computer Vision</a>
 </p>
 
-</div>
-<p>
-  LLM applications • Intelligent automation • Semantic search •
-  RAG systems • Python APIs • Microservices • Databases • Computer Vision
+<p align="center">
+  AI applications • Intelligent automation • Semantic search • RAG systems •
+  Python APIs • Microservices • Databases • Computer Vision
 </p>
 
-<p>
+<p align="center">
   <code>Generative AI</code>
   <code>RAG Systems</code>
   <code>Backend Architecture</code>
