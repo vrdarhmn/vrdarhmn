@@ -163,7 +163,6 @@
 
 <p align="center">
   <code>Generative AI</code>
-  <code>RAG Systems</code>
   <code>Backend Architecture</code>
   <code>Cloud Technologies</code>
   <code>Intelligent Applications</code>
