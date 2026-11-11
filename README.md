@@ -155,9 +155,7 @@
 </p>
 
 <p align="center">
-  <i>Building intelligent software, one project at a time.</i>
+  <i>Building intelligent software.</i>
 </p>
-
-<i>Building intelligent software.</i>
 
 </div>
