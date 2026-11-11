@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <b>Computer Scientist · AI Engineer</b>
+  <b>Computer Science Graduate · AI Engineer</b>
 </p>
 
 <p>
