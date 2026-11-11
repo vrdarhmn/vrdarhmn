@@ -46,12 +46,11 @@
 
 ---
 
-##             TECH STACK
-
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
-<table>
+<table align="center">
 <tr>
 <td align="center" width="50%"><b>Languages</b></td>
 <td align="center" width="50%"><b>AI / ML</b></td>
