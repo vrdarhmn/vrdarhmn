@@ -138,7 +138,7 @@
 
 ---
 
-<h2 align="center">Areas of Interest</h2>
+<h2 align="center">AREAS OF INTEREST</h2>
 
 <div align="center">
 
@@ -173,7 +173,7 @@
 
 ---
 
-<h2 align="center">GitHub</h2>
+<h2 align="center">GITHUB</h2>
 
 <div align="center">
 
@@ -198,7 +198,7 @@
 
 ---
 
-<h2 align="center">Education</h2>
+<h2 align="center">EDUCATION</h2>
 
 <div align="center">
 
