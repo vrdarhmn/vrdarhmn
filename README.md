@@ -158,7 +158,7 @@
 
 <p align="center">
   AI applications • Intelligent automation • Semantic search • RAG systems •
-  Python APIs • Microservices • Databases • Computer Vision
+  Python APIs • Microservices • Databases 
 </p>
 
 <p align="center">
