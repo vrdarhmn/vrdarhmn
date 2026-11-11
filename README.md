@@ -160,6 +160,8 @@
 
 <p>
   <code>Generative AI</code>
+  <code>Attention Mechanisms</code>
+  <code>AI & Automation</code>
   <code>RAG Systems</code>
   <code>Backend Architecture</code>
   <code>Cloud Technologies</code>
