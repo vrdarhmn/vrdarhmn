@@ -148,7 +148,7 @@
   &nbsp; • &nbsp;
   <a href="#nlp--rag">NLP & RAG</a>
   &nbsp; • &nbsp;
-    <a href="#ai-&-automation">AI & Generative AI</a>
+  <a href="#ai-&-automation">AI & Generative AI</a>
   &nbsp; • &nbsp;
   <a href="#attention-mechanisms">NLP & RAG</a>
   &nbsp; • &nbsp;
