@@ -231,7 +231,7 @@
 </p>
 
 <p>
-  <i>Building intelligent software, one project at a time.</i>
+  <i>Learning, experimenting, and building alog the way.</i>
 </p>
 
 </div>
