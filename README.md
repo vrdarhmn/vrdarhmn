@@ -46,7 +46,7 @@
 
 ---
 
-## TECH STACK
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
 
