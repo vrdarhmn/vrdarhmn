@@ -121,53 +121,7 @@ Python APIs • Microservices • Databases • Computer Vision
 <img src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165">
 </a>
 </p>
----
 
-### Currently Learning
-
-<p align="center">
-  <kbd>Generative AI</kbd>
-  <kbd>RAG Systems</kbd>
-  <kbd>Backend Architecture</kbd>
-  <kbd>Cloud Technologies</kbd>
-  <kbd>Intelligent Applications</kbd>
-</p>
-
-## GitHub
-
-<p>
-  <a href="https://github.com/vrdarhmn?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
-  </a>
-
-  <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/View%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View My Work">
-  </a>
-</p>
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF&icon_color=A78BFA&rank_icon=github"
-  width="430"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://streak-stats.demolab.com?user=vrdarhmn&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-  width="430"
-  alt="GitHub Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=vrdarhmn&bg_color=0D1117&color=FFFFFF&line=A78BFA&point=C084FC&area=true&hide_border=true"
-  width="90%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
 
 ---
 
