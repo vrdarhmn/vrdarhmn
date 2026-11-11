@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  I build practical software where AI, backend systems, and real-world applications meet.
+  Turning AI ideas into intelligent, real-world software.
 </p>
 
 <p>
