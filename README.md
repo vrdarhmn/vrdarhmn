@@ -144,7 +144,7 @@
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/vrdarhmn">
+  <a href="https://www.linkedin.com/in/wrdarhmn/">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="YOUR_LINKEDIN_URL">
