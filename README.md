@@ -30,10 +30,10 @@
 ## What I Bring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-7C3AED?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/NLP%20%26%20RAG-6366F1?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-4F46E5?style=flat-square&logoColor=white">
-  <span>&nbsp;Full Stack Engineer&nbsp;</span>
+  <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-6D28D9?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/NLP%20%26%20RAG-7C3AED?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-8B5CF6?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Full%20Stack%20Engineer-334155?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Computer%20Vision-0891B2?style=flat-square&logoColor=white">
   <img src="https://img.shields.io/badge/Attention%20Mechanisms-0F766E?style=flat-square&logoColor=white">
 </p>
