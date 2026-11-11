@@ -148,7 +148,11 @@
   &nbsp; • &nbsp;
   <a href="#nlp--rag">NLP & RAG</a>
   &nbsp; • &nbsp;
-  <a href="#backend-engineering">Backend Engineering</a>
+    <a href="#ai-&-automation">AI & Generative AI</a>
+  &nbsp; • &nbsp;
+  <a href="#attention-mechanisms">NLP & RAG</a>
+  &nbsp; • &nbsp;
+  <a href="#full-stack-engineering">Backend Engineering</a>
   &nbsp; • &nbsp;
   <a href="#computer-vision">Computer Vision</a>
 </p>
@@ -160,8 +164,6 @@
 
 <p>
   <code>Generative AI</code>
-  <code>Attention Mechanisms</code>
-  <code>AI & Automation</code>
   <code>RAG Systems</code>
   <code>Backend Architecture</code>
   <code>Cloud Technologies</code>
