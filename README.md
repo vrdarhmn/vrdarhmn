@@ -70,10 +70,9 @@
 <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white">
-<img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square">
-<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square">
 <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square">
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square">
 
 </td>
 </tr>
@@ -125,9 +124,9 @@
 <td align="center">
 
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square">
+<img src="https://img.shields.io/badge/Text--to--Speech-374151?style=flat-square">
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
 <img src="https://img.shields.io/badge/Speech%20Recognition-374151?style=flat-square">
-<img src="https://img.shields.io/badge/Text--to--Speech-374151?style=flat-square">
 
 </td>
 </tr>
