@@ -52,7 +52,7 @@
 <table>
 <tr>
 <td align="center" width="50%"><b>Languages</b></td>
-<td align="center" width="50%"><b>AI / Machine Learning</b></td>
+<td align="center" width="50%"><b>AI / ML</b></td>
 </tr>
 
 <tr>
@@ -72,23 +72,10 @@
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white">
 <img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square">
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square">
 <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square">
 <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square">
-
-</td>
-
-<td align="center">
-
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
-<img src="https://img.shields.io/badge/API%20Integration-4B5563?style=flat-square">
 
 </td>
 </tr>
@@ -106,6 +93,7 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20APIs-6B7280?style=flat-square">
 <img src="https://img.shields.io/badge/Microservices-4B5563?style=flat-square">
+<img src="https://img.shields.io/badge/API%20Integration-4B5563?style=flat-square">
 
 </td>
 
@@ -121,8 +109,8 @@
 </tr>
 
 <tr>
-<td align="center"><b>Development Tools</b></td>
-<td align="center"><b>Computer Vision & Speech</b></td>
+<td align="center"><b>Development</b></td>
+<td align="center"><b>Vision & Speech</b></td>
 </tr>
 
 <tr>
@@ -145,6 +133,7 @@
 
 </td>
 </tr>
+
 </table>
 
 </div>
