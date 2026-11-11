@@ -68,20 +68,59 @@
 ## Areas of Interest
 
 <p align="center">
-  <a href="#ai--generative-ai">🤖 <b>AI & Generative AI</b></a>
-  &nbsp;•&nbsp;
-  <a href="#nlp--rag">🔎 <b>NLP & RAG</b></a>
-  &nbsp;•&nbsp;
-  <a href="#backend-engineering">⚙️ <b>Backend Engineering</b></a>
-  &nbsp;•&nbsp;
-  <a href="#computer-vision">👁️ <b>Computer Vision</b></a>
+
+<a href="#ai--generative-ai"><b>AI & Generative AI</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#nlp--rag"><b>NLP & RAG</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#backend-engineering"><b>Backend Engineering</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="#computer-vision"><b>Computer Vision</b></a>
+
 </p>
 
 <p align="center">
-  LLM applications • Generative AI • Intelligent automation • Semantic search • RAG systems •
-  Python APIs • Microservices • Databases • Computer Vision
+LLM applications • Generative AI • Intelligent automation • Semantic search • RAG systems •
+Python APIs • Microservices • Databases • Computer Vision
 </p>
 
+<br>
+
+<h3 align="center">Currently Learning</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/RAG%20Systems-6366F1?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Backend%20Architecture-0891B2?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Cloud%20Technologies-0EA5E9?style=flat-square&logoColor=white">
+<img src="https://img.shields.io/badge/Intelligent%20Applications-64748B?style=flat-square&logoColor=white">
+</p>
+
+---
+
+<h2 align="center">GitHub</h2>
+
+<p align="center">
+
+<a href="https://github.com/vrdarhmn?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://github.com/vrdarhmn">
+<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+<p align="center">
+<a href="https://github.com/vrdarhmn">
+<img src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github" height="165">
+</a>
+
+<a href="https://github.com/vrdarhmn">
+<img src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165">
+</a>
+</p>
 ---
 
 ### Currently Learning
