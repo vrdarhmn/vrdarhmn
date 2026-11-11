@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <b>Computer Science Student · AI & Python Developer</b>
+  <b>Computer Scientist · AI & Python Developer</b>
 </p>
 
 <p>
@@ -123,7 +123,6 @@
   />
 </p>
 
-<br>
 
 <!-- ==================== EDUCATION ==================== -->
 
