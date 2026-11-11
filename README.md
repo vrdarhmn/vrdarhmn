@@ -39,8 +39,7 @@
 </p>
 
 <p>
-  I enjoy turning AI concepts into working software — from intelligent APIs and RAG systems
-  to forecasting, automation, and computer-vision applications.
+ I turn AI concepts into practical software — building RAG and NLP systems, intelligent APIs, automation workflows, backend services, and computer-vision applications.
 </p>
 
 </div>
