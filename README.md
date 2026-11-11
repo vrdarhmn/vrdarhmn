@@ -74,8 +74,6 @@
 <img src="https://img.shields.io/badge/Pinecone-111827?style=flat-square">
 <img src="https://img.shields.io/badge/NLP-7C3AED?style=flat-square">
 <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square">
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square">
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
 
 </td>
 </tr>
@@ -93,7 +91,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/REST%20APIs-6B7280?style=flat-square">
 <img src="https://img.shields.io/badge/Microservices-4B5563?style=flat-square">
-<img src="https://img.shields.io/badge/API%20Integration-4B5563?style=flat-square">
 
 </td>
 
@@ -121,6 +118,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white">
 
 </td>
 
