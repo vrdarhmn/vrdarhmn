@@ -216,7 +216,7 @@
 
 ---
 
-<h2 align="center">Let's Connect</h2>
+<h2 align="center">LET'S CONNECT</h2>
 
 <div align="center">
 
