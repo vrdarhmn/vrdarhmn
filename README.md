@@ -100,47 +100,47 @@
 
 <p align="center">
   <a href="https://github.com/vrdarhmn?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white">
   </a>
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github"
-    width="420"
-    alt="GitHub Statistics"
-  />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"
-    width="420"
+    width="430"
     alt="GitHub Contribution Streak"
   />
 </p>
 
+<hr>
 
 <!-- ==================== EDUCATION ==================== -->
 
 <h2 align="center">Education</h2>
 
 <p align="center">
-  <b>B.Sc. Computer Science</b><br>
-  Iqra University · 2022 — 2026
+  <b>B.Sc. Computer Science</b>
+  &nbsp;·&nbsp;
+  Iqra University
+  &nbsp;·&nbsp;
+  2022 — 2026
 </p>
 
 <p align="center">
-  <b>Cloud Applied Generative AI</b><br>
-  PIAIC · 2025
+  <b>Cloud Applied Generative AI</b>
+  &nbsp;·&nbsp;
+  PIAIC
+  &nbsp;·&nbsp;
+  2025
 </p>
 
-<br>
+<hr>
 
 <!-- ==================== CONNECT ==================== -->
+
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
@@ -153,7 +153,5 @@
 </p>
 
 <p align="center">
-  <i>Building intelligent software.</i>
+  <sub>Building intelligent software.</sub>
 </p>
-
-</div>
