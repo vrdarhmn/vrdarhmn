@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## What I Bring
+## WHAT I BRING
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-6D28D9?style=flat-square&logoColor=white">
