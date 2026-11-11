@@ -16,7 +16,7 @@
   <a href="https://github.com/vrdarhmn">
     <img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/warda-rehman22/">
+  <a href="https://www.linkedin.com/in/wrdarhmn/">
     <img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
