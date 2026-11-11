@@ -65,63 +65,34 @@
 
 ---
 
-<div align="center">
-
 ## Areas of Interest
 
-</div>
+<p align="center">
+  <a href="#ai--generative-ai">🤖 <b>AI & Generative AI</b></a>
+  &nbsp;•&nbsp;
+  <a href="#nlp--rag">🔎 <b>NLP & RAG</b></a>
+  &nbsp;•&nbsp;
+  <a href="#backend-engineering">⚙️ <b>Backend Engineering</b></a>
+  &nbsp;•&nbsp;
+  <a href="#computer-vision">👁️ <b>Computer Vision</b></a>
+</p>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🤖 AI & Generative AI
-
-LLM applications, Generative AI, intelligent automation, and practical AI workflows.
-
-</td>
-
-<td width="50%">
-
-### 🔎 NLP & RAG
-
-Semantic search, embeddings, vector databases, document retrieval, and RAG systems.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚙️ Backend Engineering
-
-Python APIs, Java services, microservices, databases, and application architecture.
-
-</td>
-
-<td width="50%">
-
-### 👁️ Computer Vision
-
-Real-time computer vision and interactive applications using MediaPipe and OpenCV.
-
-</td>
-</tr>
-</table>
+<p align="center">
+  LLM applications • Generative AI • Intelligent automation • Semantic search • RAG systems •
+  Python APIs • Microservices • Databases • Computer Vision
+</p>
 
 ---
 
-<div align="center">
+### Currently Learning
 
-## Currently Learning
-
-`Generative AI` · `RAG Systems` · `Backend Architecture` · `Cloud Technologies` · `Intelligent Applications`
-
-</div>
-
----
-
-<div align="center">
+<p align="center">
+  <kbd>Generative AI</kbd>
+  <kbd>RAG Systems</kbd>
+  <kbd>Backend Architecture</kbd>
+  <kbd>Cloud Technologies</kbd>
+  <kbd>Intelligent Applications</kbd>
+</p>
 
 ## GitHub
 
