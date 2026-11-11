@@ -65,96 +65,99 @@
 
 ---
 
-## Areas of Interest
+<!-- ==================== AREAS OF INTEREST ==================== -->
+
+<h2 align="center">Areas of Interest</h2>
 
 <p align="center">
-
-<a href="#ai--generative-ai"><b>AI & Generative AI</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#nlp--rag"><b>NLP & RAG</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#backend-engineering"><b>Backend Engineering</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="#computer-vision"><b>Computer Vision</b></a>
-
+  <a href="#ai--generative-ai">AI & Generative AI</a>
+  &nbsp;•&nbsp;
+  <a href="#nlp--rag">NLP & RAG</a>
+  &nbsp;•&nbsp;
+  <a href="#backend-engineering">Backend Engineering</a>
+  &nbsp;•&nbsp;
+  <a href="#computer-vision">Computer Vision</a>
 </p>
 
 <p align="center">
-LLM applications • Generative AI • Intelligent automation • Semantic search • RAG systems •
-Python APIs • Microservices • Databases • Computer Vision
+  LLM applications • Generative AI • Intelligent automation • Semantic search •
+  RAG systems • Python APIs • Microservices • Databases • Computer Vision
+</p>
+
+<p align="center">
+  <code>Generative AI</code>
+  <code>RAG Systems</code>
+  <code>Backend Architecture</code>
+  <code>Cloud Technologies</code>
+  <code>Intelligent Applications</code>
 </p>
 
 <br>
 
-<h3 align="center">Currently Learning</h3>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/RAG%20Systems-6366F1?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Backend%20Architecture-0891B2?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Cloud%20Technologies-0EA5E9?style=flat-square&logoColor=white">
-<img src="https://img.shields.io/badge/Intelligent%20Applications-64748B?style=flat-square&logoColor=white">
-</p>
-
----
+<!-- ==================== GITHUB ==================== -->
 
 <h2 align="center">GitHub</h2>
 
 <p align="center">
-
-<a href="https://github.com/vrdarhmn?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://github.com/vrdarhmn">
-<img src="https://img.shields.io/badge/VIEW%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://github.com/vrdarhmn?tab=repositories">
+    <img src="https://img.shields.io/badge/REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://github.com/vrdarhmn">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/vrdarhmn">
-<img src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github" height="165">
-</a>
-
-<a href="https://github.com/vrdarhmn">
-<img src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="165">
-</a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github"
+    width="420"
+    alt="GitHub Statistics"
+  />
 </p>
 
-
----
-
-<div align="center">
-
-## Education
-
-**B.Sc. Computer Science**  
-Iqra University · **2022 — 2026**
-
-**Cloud Applied Generative AI**  
-PIAIC · **2025**
-
-</div>
-
----
-
-<div align="center">
-
-## Let's Connect
-
-<p>
-  <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
-  <a href="https://www.linkedin.com/in/warda-rehman22/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"
+    width="420"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 <br>
 
-<i>Building intelligent software, one project at a time.</i>
+<!-- ==================== EDUCATION ==================== -->
+
+<h2 align="center">Education</h2>
+
+<p align="center">
+  <b>B.Sc. Computer Science</b><br>
+  Iqra University · 2022 — 2026
+</p>
+
+<p align="center">
+  <b>Cloud Applied Generative AI</b><br>
+  PIAIC · 2025
+</p>
+
+<br>
+
+<!-- ==================== CONNECT ==================== -->
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://github.com/vrdarhmn">
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <i>Building intelligent software, one project at a time.</i>
+</p>
+
+<i>Building intelligent software.</i>
 
 </div>
