@@ -1,47 +1,43 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&duration=2800&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI+Developer;Python+Developer;Backend+Developer;Generative+AI+%7C+NLP+%7C+RAG;Building+Intelligent+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=AI+%7C+Backend+%7C+Python+Developer;Generative+AI+%7C+NLP+%7C+RAG+Systems;Building+practical+AI-powered+software;Turning+ideas+into+working+products" alt="Typing introduction" />
 </a>
 
+<p><b>Computer Science Student</b> · <b>AI Enthusiast</b> · <b>Python Developer</b></p>
+
 <p>
-  <b>Computer Scientist · AI & Python Developer</b>
+I build practical software where <b>AI, backend systems, and real-world applications</b> meet.<br/>
+My focus is on intelligent APIs, NLP, RAG systems, automation, computer vision, and AI-powered applications.
 </p>
 
 <p>
-  I build practical software where AI, backend systems, and real-world applications meet.
-</p>
-
-<p>
-  <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/warda-rehman22/">
-    <img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<a href="https://github.com/vrdarhmn">
+<img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/warda-rehman22/">
+<img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## What I Bring
 
-<p>
-  <img src="https://img.shields.io/badge/AI%20%26%20Generative%20AI-7C3AED?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/NLP%20%26%20RAG-8B5CF6?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-06B6D4?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Vision-14B8A6?style=flat-square&logoColor=white">
-</p>
+<div align="center">
 
-<p>
-  I enjoy turning AI concepts into working software — from intelligent APIs and RAG systems
-  to forecasting, automation, and computer-vision applications.
-</p>
+| AI & Generative AI | NLP & RAG | Backend Engineering | Computer Vision |
+|:---:|:---:|:---:|:---:|
+| LLM applications | Semantic search | Python APIs | Real-time vision |
+| Generative AI | Embeddings | REST APIs | MediaPipe |
+| Intelligent automation | Vector databases | Automation | OpenCV |
+| AI-powered applications | Document retrieval | API integration | Interactive applications |
 
 </div>
+
+> I enjoy turning AI concepts into working software — from intelligent assistants and RAG systems to automation, NLP, and computer-vision applications.
 
 ---
 
@@ -49,109 +45,202 @@
 
 <div align="center">
 
-| **Languages** | **AI / ML** |
-|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-111827?style=flat-square) |
+### Languages
 
-| **Backend & APIs** | **Data & Cloud** |
-|:---:|:---:|
-| ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-6B7280?style=flat-square) ![Microservices](https://img.shields.io/badge/Microservices-4B5563?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-| **Development** | **Computer Vision & Speech** |
-|:---:|:---:|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-374151?style=flat-square) ![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-374151?style=flat-square) |
+### AI / Machine Learning
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-111827?style=flat-square&logo=pinecone&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square)
+
+### Backend & APIs
+
+![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-6B7280?style=flat-square)
+![API Integration](https://img.shields.io/badge/API%20Integration-4B5563?style=flat-square)
+
+### Computer Vision & Speech
+
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Speech Recognition](https://img.shields.io/badge/Speech%20Recognition-374151?style=flat-square)
+![Text-to-Speech](https://img.shields.io/badge/Text--to--Speech-374151?style=flat-square)
+
+### Development
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
 ---
 
-<!-- ==================== AREAS OF INTEREST ==================== -->
+## Featured Work
 
-<h2 align="center">Areas of Interest</h2>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <a href="#ai--generative-ai">AI & Generative AI</a>
-  &nbsp;•&nbsp;
-  <a href="#nlp--rag">NLP & RAG</a>
-  &nbsp;•&nbsp;
-  <a href="#backend-engineering">Backend Engineering</a>
-  &nbsp;•&nbsp;
-  <a href="#computer-vision">Computer Vision</a>
-</p>
+### 🤖 NovaDesk
+**AI-Powered Desktop Assistant**
 
-<p align="center">
-  LLM applications • Intelligent automation • Semantic search •
-  RAG systems • Python APIs • Microservices • Databases • Computer Vision
-</p>
+An intelligent desktop assistant designed to automate computer tasks using natural language.
 
-<p align="center">
-  <code>Generative AI</code>
-  <code>RAG Systems</code>
-  <code>Backend Architecture</code>
-  <code>Cloud Technologies</code>
-  <code>Intelligent Applications</code>
-</p>
+**Focus:** Python · GPT-4 · PyAutoGUI · Speech Recognition · TTS
 
-<br>
+- Automated desktop tasks
+- Natural-language computer control
+- Voice-based interaction
 
-<!-- ==================== GITHUB ==================== -->
+</td>
 
-<h2 align="center">GitHub</h2>
+<td width="50%">
 
-<p align="center">
-  <a href="https://github.com/vrdarhmn?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/View%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+### 🔎 PetSearchRAG
+**Semantic Search System**
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=vrdarhmn&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"
-    width="430"
-    alt="GitHub Contribution Streak"
-  />
-</p>
+A RAG-based semantic search system using LangChain, Gemini embeddings, and Pinecone.
 
-<hr>
+**Focus:** LangChain · Gemini · Pinecone · RAG
 
-<!-- ==================== EDUCATION ==================== -->
+- Built a RAG pipeline
+- Implemented semantic document retrieval
+- Used vector similarity for relevant results
 
-<h2 align="center">Education</h2>
+</td>
+</tr>
 
-<p align="center">
-  <b>B.Sc. Computer Science</b>
-  &nbsp;·&nbsp;
-  Iqra University
-  &nbsp;·&nbsp;
-  2022 — 2026
-</p>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <b>Cloud Applied Generative AI</b>
-  &nbsp;·&nbsp;
-  PIAIC
-  &nbsp;·&nbsp;
-  2025
-</p>
+### 🎙️ VocaMate
+**OpenAI-Powered Personal Assistant**
 
-<hr>
+A voice-based personal assistant built with Python and OpenAI.
 
-<!-- ==================== CONNECT ==================== -->
+**Focus:** Python · OpenAI · Speech-to-Text · TTS
 
-<h2 align="center">Let's Connect</h2>
+- Handles user queries
+- Supports reminders
+- Provides real-time responses
 
-<p align="center">
-  <a href="https://github.com/vrdarhmn">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+</td>
 
-<p align="center">
-  <sub>Building intelligent software.</sub>
-</p>
+<td width="50%">
+
+### 🥤 Vending Machine
+**DSA Project · C++**
+
+An interactive vending machine system demonstrating core data structures and algorithms.
+
+**Focus:** C++ · Arrays · DFS · BFS
+
+- Transaction handling
+- Inventory management
+- DSA-based system logic
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏦 Bank Management System
+**OOP Project · Java**
+
+A modular banking application demonstrating fundamental object-oriented programming principles.
+
+**Focus:** Java · OOP · Encapsulation · Inheritance
+
+- Account management
+- Transaction simulation
+- Modular code structure
+
+</td>
+
+<td width="50%">
+
+### 🧠 AI / NLP Experiments
+**Exploring practical AI applications**
+
+Hands-on development around LLMs, NLP, RAG, embeddings, prompt engineering, and automation.
+
+**Focus:** OpenAI · LangChain · Transformers · Gemini · Pinecone
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/vrdarhmn?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" />
+</a>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=vrdarhmn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=A78BFA&rank_icon=github&include_all_commits=true" alt="GitHub statistics" width="480" />
+
+<img src="https://streak-stats.demolab.com?user=vrdarhmn&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" width="480" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vrdarhmn&bg_color=0D1117&color=E5E7EB&line=A78BFA&point=C084FC&area=true&hide_border=true" alt="GitHub activity graph" width="92%" />
+
+</div>
+
+---
+
+## Education
+
+<div align="center">
+
+**B.Sc. Computer Science** · Iqra University · **2022 — 2026**
+
+**Cloud Applied Generative AI** · PIAIC · **2025**
+
+</div>
+
+---
+
+## Currently Learning
+
+<div align="center">
+
+`Generative AI` · `NLP & RAG` · `Prompt Engineering` · `AI Applications` · `Computer Vision`
+
+</div>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/vrdarhmn">
+<img src="https://img.shields.io/badge/GitHub-vrdarhmn-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/warda-rehman22/">
+<img src="https://img.shields.io/badge/LinkedIn-Warda%20Rehman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<br/><br/>
+
+<i>Building practical intelligent software, one project at a time.</i>
+
+</div>
